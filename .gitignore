@@ -61,4 +61,4 @@ typings/
 .next
 
 # Compiled
-dist/presence.js
+*/dist/presence.js
