@@ -1,7 +1,9 @@
-# PreMiD-ComedyCentral
+# PreMiD-Presences
 
-Discord Rich Presence for Comedy Central using [PreMiD](https://github.com/PreMiD/PreMiD)! Available for free download via the PreMiD Presence Store.
+Collection of Discord Rich Presences for the following websites, intended for use with [PreMiD](https://github.com/PreMiD/PreMiD)!
+
+- [Comedy Central](https://premid.app/store/presences/Comedy%20Central)
 
 <p align="center">
-    <img src="https://i.imgur.com/W37Sh4n.png" width="300px" draggable="false">
+    <img src="https://i.imgur.com/W37Sh4n.png" width="250px" draggable="false">
 </p>
