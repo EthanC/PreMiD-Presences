@@ -9,5 +9,5 @@ Collection of Discord Rich Presences for the following websites, intended for us
 - [HepBoat](https://premid.app/store/presences/HepBoat)
 
 <p align="center">
-    <img src="https://i.imgur.com/W37Sh4n.png" width="250px" draggable="false">
+    <img src="https://i.imgur.com/omIBClp.png" draggable="false">
 </p>
